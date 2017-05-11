@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Topbar">
+        <attr name="topbarTitleText" format="string" />
+        <attr name="topbarTitleTextSize" format="dimension" />
+        <attr name="topbarTitleTextColor" format="color" />
+        <attr name="leftButtonDrawable" format="color|reference" />
+        <attr name="rightButtonDrawable" format="color|reference" />
+        <attr name="leftButtonmagin" format="dimension" />
+        <attr name="rightButtonmagin" format="dimension" />
+    </declare-styleable>
+</resources>
